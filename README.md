@@ -67,20 +67,23 @@ Metodo Analitico
 
 
 Medición de voltaje aplicando superposición.
-![image](https://user-images.githubusercontent.com/105696051/176936604-fe8d92a9-8796-40ec-aa16-f655d5c9315b.png)
+
+![image](https://user-images.githubusercontent.com/105671364/176954666-15908bda-6209-4125-b68f-77d2402bd558.png)
 
 Medición de corriente aplicando superposición.
-![image](https://user-images.githubusercontent.com/105696051/176936696-4685164a-921a-4ef3-baa9-8255492b28dc.png)
 
+![image](https://user-images.githubusercontent.com/105671364/176954721-75a7c3ae-4e75-4b9a-824d-2ab56204260c.png)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
+Medición de error de  voltaje aplicando superposición.
 
-Medición de voltaje aplicando superposición.
-![image](https://user-images.githubusercontent.com/105696051/176936604-fe8d92a9-8796-40ec-aa16-f655d5c9315b.png)
+![image](https://user-images.githubusercontent.com/105671364/176954389-46838ee5-7537-4a8a-806b-9c5f5683f724.png)
 
-Medición de corriente aplicando superposición.
-![image](https://user-images.githubusercontent.com/105696051/176936696-4685164a-921a-4ef3-baa9-8255492b28dc.png)
+
+Medición de error de corriente aplicando superposición.
+
+![image](https://user-images.githubusercontent.com/105671364/176954464-18941ec5-68e3-4246-a089-6bac4aded94e.png)
 
 
 
