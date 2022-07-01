@@ -60,6 +60,11 @@ Corriente IX
 
 ![image](https://user-images.githubusercontent.com/105671364/176937770-b94e6811-375d-4df3-8281-ee2c9682ede6.png)
 
+Metodo Analitico
+![lab40001](https://user-images.githubusercontent.com/105671364/176939825-62292b7c-cf56-4cd3-9fb0-0693d47683ae.jpg)
+
+![lab40002](https://user-images.githubusercontent.com/105671364/176939830-268a7d99-ea78-4545-be82-81cb43d76c2d.jpg)
+
 
 Medición de voltaje aplicando superposición.
 ![image](https://user-images.githubusercontent.com/105696051/176936604-fe8d92a9-8796-40ec-aa16-f655d5c9315b.png)
@@ -67,13 +72,15 @@ Medición de voltaje aplicando superposición.
 Medición de corriente aplicando superposición.
 ![image](https://user-images.githubusercontent.com/105696051/176936696-4685164a-921a-4ef3-baa9-8255492b28dc.png)
 
-Metodo Analitico
-![lab40001](https://user-images.githubusercontent.com/105671364/176939825-62292b7c-cf56-4cd3-9fb0-0693d47683ae.jpg)
-![lab40002](https://user-images.githubusercontent.com/105671364/176939830-268a7d99-ea78-4545-be82-81cb43d76c2d.jpg)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR 
 
 
+Medición de voltaje aplicando superposición.
+![image](https://user-images.githubusercontent.com/105696051/176936604-fe8d92a9-8796-40ec-aa16-f655d5c9315b.png)
+
+Medición de corriente aplicando superposición.
+![image](https://user-images.githubusercontent.com/105696051/176936696-4685164a-921a-4ef3-baa9-8255492b28dc.png)
 
 
 
